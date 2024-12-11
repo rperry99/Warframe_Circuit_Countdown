@@ -1,0 +1,170 @@
+{
+    "incarnonGenesisThumbnail": "path/to/incarnon_genesis_thumbnail.jpg",
+    "weeklyRotations": [
+      {
+        "week": 1,
+        "weapons": [
+          {
+            "weapon": "Weapon 1",
+            "mainImage": "path/to/weapon1_main_image.jpg",
+            "thumbnail": "path/to/weapon1_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 1A",
+                "thumbnail": "path/to/weapon1a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 1B",
+                "thumbnail": "path/to/weapon1b_thumbnail.jpg"
+              }
+            ]
+          },
+          {
+            "weapon": "Weapon 2",
+            "mainImage": "path/to/weapon2_main_image.jpg",
+            "thumbnail": "path/to/weapon2_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 2A",
+                "thumbnail": "path/to/weapon2a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 2B",
+                "thumbnail": "path/to/weapon2b_thumbnail.jpg"
+              }
+            ]
+          },
+          {
+            "weapon": "Weapon 3",
+            "mainImage": "path/to/weapon3_main_image.jpg",
+            "thumbnail": "path/to/weapon3_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 3A",
+                "thumbnail": "path/to/weapon3a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 3B",
+                "thumbnail": "path/to/weapon3b_thumbnail.jpg"
+              }
+            ]
+          },
+          {
+            "weapon": "Weapon 4",
+            "mainImage": "path/to/weapon4_main_image.jpg",
+            "thumbnail": "path/to/weapon4_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 4A",
+                "thumbnail": "path/to/weapon4a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 4B",
+                "thumbnail": "path/to/weapon4b_thumbnail.jpg"
+              }
+            ]
+          },
+          {
+            "weapon": "Weapon 5",
+            "mainImage": "path/to/weapon5_main_image.jpg",
+            "thumbnail": "path/to/weapon5_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 5A",
+                "thumbnail": "path/to/weapon5a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 5B",
+                "thumbnail": "path/to/weapon5b_thumbnail.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "dateRange": "2024-12-18 to 2024-12-24",
+        "incarnonGenesis": {
+          "name": "Incarnon Genesis 2",
+          "thumbnail": "path/to/incarnon_genesis_thumbnail.jpg"
+        },
+        "weapons": [
+          {
+            "weapon": "Weapon 1",
+            "mainImage": "path/to/weapon1_main_image.jpg",
+            "thumbnail": "path/to/weapon1_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 1A",
+                "thumbnail": "path/to/weapon1a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 1B",
+                "thumbnail": "path/to/weapon1b_thumbnail.jpg"
+              }
+            ]
+          },
+          {
+            "weapon": "Weapon 2",
+            "mainImage": "path/to/weapon2_main_image.jpg",
+            "thumbnail": "path/to/weapon2_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 2A",
+                "thumbnail": "path/to/weapon2a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 2B",
+                "thumbnail": "path/to/weapon2b_thumbnail.jpg"
+              }
+            ]
+          },
+          {
+            "weapon": "Weapon 3",
+            "mainImage": "path/to/weapon3_main_image.jpg",
+            "thumbnail": "path/to/weapon3_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 3A",
+                "thumbnail": "path/to/weapon3a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 3B",
+                "thumbnail": "path/to/weapon3b_thumbnail.jpg"
+              }
+            ]
+          },
+          {
+            "weapon": "Weapon 4",
+            "mainImage": "path/to/weapon4_main_image.jpg",
+            "thumbnail": "path/to/weapon4_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 4A",
+                "thumbnail": "path/to/weapon4a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 4B",
+                "thumbnail": "path/to/weapon4b_thumbnail.jpg"
+              }
+            ]
+          },
+          {
+            "weapon": "Weapon 5",
+            "mainImage": "path/to/weapon5_main_image.jpg",
+            "thumbnail": "path/to/weapon5_thumbnail.jpg",
+            "applicableWeapons": [
+              {
+                "weaponName": "Applicable Weapon 5A",
+                "thumbnail": "path/to/weapon5a_thumbnail.jpg"
+              },
+              {
+                "weaponName": "Applicable Weapon 5B",
+                "thumbnail": "path/to/weapon5b_thumbnail.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
