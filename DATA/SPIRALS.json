@@ -1,0 +1,67 @@
+[
+    {
+        "counter": "0",
+        "name": "joy",
+        "thraxCourtier": "Mathila",
+        "thraxCourtierTitle": "The Harbinger of Joy",
+        "flavorText": "During Joy, Mathila, The Harbinger of Joy takes charge. She fills the sky with blooming colors, and will make enemies emit Void damage, releasing motes that seek out and heal enemies if their attacks connect.",
+        "colors": {
+            "color1": "#AEC6CF",
+            "color2": "#77DD77",
+            "color3": "#FFB7C5"
+        }
+
+    },
+    {
+        "counter": "1",
+        "name": "anger",
+        "thraxCourtier": "Lodun",
+        "thraxCourtierTitle": "The Prince of Fire",
+        "flavorText": "During the Anger Spiral, Lodun, The Prince of Fire dominates Duviri. The skies turn red, while enraged faces look down at the player, and fiery meteors rain down on the player. Enemies will inflict Heat damage on the player.",
+        "colors": {
+            "color1": "#8B0000",
+            "color2": "#B22222",
+            "color3": "#641E16"
+        }
+
+    },
+    {
+        "counter": "2",
+        "name": "Envy",
+        "thraxCourtier": "Bombastine",
+        "thraxCourtierTitle": "The Covetous Courtier",
+        "flavorText": "During Envy, Bombastine, The Covetous Courtier influences Duviri. The skies turn a noxious green, and greedy eyes watch from above. Enemies will inflict Toxin damage on the player.",
+        "colors": {
+            "color1": "#39FF14",
+            "color2": "#228B22",
+            "color3": "#32CD32"
+        }
+
+    },
+    {
+        "counter": "3",
+        "name": "Sorrow",
+        "thraxCourtier": "Luscinia",
+        "thraxCourtierTitle": "The Sorrowful Soprano",
+        "flavorText": "During Sorrow, Luscinia, the Sorrowful Soprano takes hold of Duviri. The skies become a depressing grey above the heads of players. Enemies inflict Cold damage.",
+        "colors": {
+            "color1": "#5A6978",
+            "color2": "#708090",
+            "color3": "#2C3E50"
+        }
+
+    },
+    {
+        "counter": "4",
+        "name": "Fear",
+        "thraxCourtier": "Sythel",
+        "thraxCourtierTitle": "The Fearful Conspirator",
+        "flavorText": "During Fear, Sythel, The Fearful Conspirator haunts Duviri. They skies become an ominous blue. Enemies inflict Electricity damage on players.",
+        "colors": {
+            "color1": "#6D6D6D",
+            "color2": "#7D5A89",
+            "color3": "#4A647D"
+        }
+
+    }
+]
